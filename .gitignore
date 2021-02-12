@@ -1,0 +1,7 @@
+venv/
+.idea/
+src/debug.log
+src/nupic.log
+*.pyc
+log_files/*.log
+src/nupredictor/unit_tests/model_files/*.yaml
